@@ -1,10 +1,31 @@
-- 👋 Hi, I’m @alireza-behravesh
-- 👀 I’m interested in Web development, Programming, Machine Learning, and ❤Python❤
-- 🌱 I’m currently Learning Flask 
-- 🧐 I’m looking to collaborate on Projects in Northern Cyprus 
-- 📫 alirezabehraveshcy@gmail.com
+# Hi, I'm Alireza Behravesh
 
-<!---
-alireza-behravesh/alireza-behravesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm an ICT teacher and developer with a background in Information Technology, web development, neural networks, and image processing.
+
+I’m currently focused on building practical AI tools for education, especially for IGCSE and high school ICT students.
+
+## What I'm working on
+
+- AI assistant for IGCSE ICT students
+- Educational web applications
+- Python and web development projects
+- AI-powered learning tools
+
+## Tech interests
+
+- Artificial Intelligence
+- Machine Learning
+- Python
+- Web Development
+- Educational Technology
+- Image Processing
+- Automation
+
+## Current goal
+
+I’m building a portfolio around AI + education to create useful tools for students and teachers.
+
+## Contact
+
+- Email: alirezabehraveshcy@gmail.com
+- GitHub: @alireza-behravesh
